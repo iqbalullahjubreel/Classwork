@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|c:\\users\\owner\\desktop\\classwork\\classwork\\classwork\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF23090-B87B-4204-B019-FA3BE2A3B0EA}|classwork\\classwork.csproj|solutionrelative:classwork\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\UserManager.cs",
+              "RelativeDocumentMoniker": "classwork\\UserManager.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\UserManager.cs",
+              "RelativeToolTip": "classwork\\UserManager.cs",
+              "ViewState": "AgIAAI8AAAAA78zMzMwUwBQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:52:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\User.cs",
+              "RelativeDocumentMoniker": "classwork\\User.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\User.cs",
+              "RelativeToolTip": "classwork\\User.cs",
+              "ViewState": "AgIAAAkAAADoMjMzMzM3wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:51:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\ProductManager.cs",
+              "RelativeDocumentMoniker": "classwork\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\ProductManager.cs*",
+              "RelativeToolTip": "classwork\\ProductManager.cs*",
+              "ViewState": "AgIAAEMAAAAAMzMzMzPzv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:37:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "classwork\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\CategoryManager.cs",
+              "RelativeToolTip": "classwork\\CategoryManager.cs",
+              "ViewState": "AgIAACAAAAAAMzMzM3MmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:04:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Category.cs",
+              "RelativeDocumentMoniker": "classwork\\Category.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Category.cs",
+              "RelativeToolTip": "classwork\\Category.cs",
+              "ViewState": "AgIAAAAAAAAIZWZmZmYkwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:04:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Product.cs",
+              "RelativeDocumentMoniker": "classwork\\Product.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Product.cs",
+              "RelativeToolTip": "classwork\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAMjMzMzMLwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:03:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Program.cs",
+              "RelativeDocumentMoniker": "classwork\\Program.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\CLASSWORK\\classwork\\classwork\\Program.cs",
+              "RelativeToolTip": "classwork\\Program.cs",
+              "ViewState": "AgIAAAEAAAAANDMzM/MmwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:02:23.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
